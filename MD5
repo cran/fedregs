@@ -1,0 +1,12 @@
+07912c006a24aa694b2316268532c59e *DESCRIPTION
+e1e586a365383f75fd718e9a936854b4 *NAMESPACE
+23531cd9fe9680eba94636caaead5cd0 *NEWS.md
+8aebac2a044a93dd748ed5084439042c *R/fedregs.r
+a582e53f237a998ad2b5d6d7cf15f8f1 *R/functions.R
+2d9a6c85e58cb2f5c5110781adb430f0 *man/cfr_part.Rd
+fe40ed87799c83dd784ac9c39d6e7a2e *man/cfr_text.Rd
+916e438a1cf2243f387ce734ab3c476e *man/cfr_urls.Rd
+ce086daf693bf37bbb637f262d202735 *man/fedregs.Rd
+6d2d50f52e510cbdfc639a6fcde2de2c *man/numextract.Rd
+fe3d7ebf57391eb2b672440b59adc8a3 *tests/testthat.R
+55f436f8801f16b01fd08b30f1250af2 *tests/testthat/test-fedregs.R
